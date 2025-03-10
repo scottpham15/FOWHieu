@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FogOfWarHieu.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FogOfWarHieu.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FogOfWarHieuEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FogOfWarHieu">
+      <UniqueIdentifier>{60CECB9E-394A-3055-82CF-53C06CA71EEC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FogOfWarHieu\FogOfWarHieu.Build.cs">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FogOfWarHieu\FogOfWarHieu.cpp">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FogOfWarHieu\FogOfWarHieu.h">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FogOfWarHieu\FogOfWarHieuCharacter.cpp">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FogOfWarHieu\FogOfWarHieuCharacter.h">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FogOfWarHieu\FogOfWarHieuGameMode.cpp">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FogOfWarHieu\FogOfWarHieuGameMode.h">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FogOfWarHieu\FogOfWarHieuPlayerController.cpp">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FogOfWarHieu\FogOfWarHieuPlayerController.h">
+      <Filter>Source\FogOfWarHieu</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

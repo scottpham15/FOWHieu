@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\source\\fogofwarhieu\\fogofwarhieugamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\x64\\fogofwarhieueditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fogofwarhieu\\definitions.fogofwarhieu.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\source\\fogofwarhieu\\fogofwarhieugamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\unrealeditor\\inc\\fogofwarhieu\\uht\\fogofwarhieugamemode.generated.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\source\\fogofwarhieu\\fogofwarhieuplayercontroller.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\source\\fogofwarhieu\\mycanvas.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\unrealeditor\\inc\\fogofwarhieu\\uht\\mycanvas.generated.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\unrealeditor\\inc\\fogofwarhieu\\uht\\fogofwarhieuplayercontroller.generated.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\source\\fogofwarhieu\\fogofwarhieucharacter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\unrealeditor\\inc\\fogofwarhieu\\uht\\fogofwarhieucharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

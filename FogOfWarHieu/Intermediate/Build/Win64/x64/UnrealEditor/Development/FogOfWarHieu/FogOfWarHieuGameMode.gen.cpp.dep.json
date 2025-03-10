@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\unrealeditor\\inc\\fogofwarhieu\\uht\\fogofwarhieugamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\x64\\fogofwarhieueditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fogofwarhieu\\definitions.fogofwarhieu.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\source\\fogofwarhieu\\fogofwarhieugamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\pearbecomehuman\\documents\\unreal projects\\fogofwarhieu\\intermediate\\build\\win64\\unrealeditor\\inc\\fogofwarhieu\\uht\\fogofwarhieugamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

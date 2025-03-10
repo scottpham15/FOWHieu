@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FogOfWarHieu",
+			"Path": "..\\Source\\FogOfWarHieu.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FogOfWarHieuEditor",
+			"Path": "..\\Source\\FogOfWarHieuEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\PearBecomeHuman\\Documents\\Unreal Projects\\FogOfWarHieu\\Source\\FogOfWarHieu\\FogOfWarHieu.Build.cs",
+		"C:\\Users\\PearBecomeHuman\\Documents\\Unreal Projects\\FogOfWarHieu\\Source\\FogOfWarHieu.Target.cs",
+		"C:\\Users\\PearBecomeHuman\\Documents\\Unreal Projects\\FogOfWarHieu\\Source\\FogOfWarHieuEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
